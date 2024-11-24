@@ -1,0 +1,10 @@
+{
+    "name": "ElectroMenu",
+    "description": "Adds Electrostats on the main menu",
+    "version_number": "1.0.0",
+    "dependencies": [
+      "BepInEx-BepInExPack_TromboneChamp-5.4.21",
+      "TootTally-TootTallyMultiplayer-1.0.7",
+    ],
+    "website_url": "https://github.com/emmett-shark/ElectroMenu/"
+  }
